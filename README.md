@@ -1,2 +1,2 @@
 # Mon project devops 
-this is q reqdme file
+this is a readme file
